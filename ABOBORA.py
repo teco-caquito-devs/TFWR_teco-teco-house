@@ -1,4 +1,4 @@
- from IRRIGAR import irrigar
+from IRRIGAR import irrigar
 
 #abobora TESTE VSCODE
 def coletar_abobora():
