@@ -1,5 +1,3 @@
-
-#CENOURA
 def coletar_cenoura():
 	for i in range(get_world_size()):
 		for i in range(get_world_size()):	
@@ -12,3 +10,4 @@ def coletar_cenoura():
 
 			move(East)
 		move(North)
+		

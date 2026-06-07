@@ -9,3 +9,4 @@ def coletar_cacto():
 			plant(Entities.Cactus)
 			move(East)
 		move(North)
+		

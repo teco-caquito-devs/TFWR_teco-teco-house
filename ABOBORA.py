@@ -1,6 +1,3 @@
-from IRRIGAR import irrigar
-
-#abobora TESTE VSCODE
 def coletar_abobora():
 	for i in range(get_world_size()):
 		for i in range(get_world_size()):
@@ -22,4 +19,3 @@ def coletar_abobora():
 
 			move(East)
 		move(North)
-	

@@ -1,3 +1,6 @@
+#rastrear
+
+
 def rastrear(x, y):
 	if x > get_pos_x():
 		while get_pos_x() != x:
@@ -11,4 +14,5 @@ def rastrear(x, y):
 	else:
 		while get_pos_y() != y:
 			move(South)
+			
 	

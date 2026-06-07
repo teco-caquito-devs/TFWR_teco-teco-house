@@ -1,4 +1,3 @@
-#GIRA SOL
 def coletar_gira_sol():
 	for i in range(get_world_size()):
 		for i in range(get_world_size()):
@@ -12,3 +11,4 @@ def coletar_gira_sol():
 				plant(Entities.Sunflower)
 			move(East)
 		move(North)
+		
